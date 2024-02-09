@@ -15,7 +15,7 @@ The Student Report API is a Flask application that provides endpoints for managi
 
 ## Setup and Installation
 ## Clone the repository:
-git clone https://github.com/yourusername/student-report-api.git
+git clone [https://github.com/purniiiima/student-report-api.git](https://github.com/purniiiima/StudentReport.git)
 
 ## Navigate to the project directory:
 cd student-report-api
